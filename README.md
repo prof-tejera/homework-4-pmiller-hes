@@ -13,7 +13,7 @@ As you can tell the current layout needs a lot of styling work. Modify the layou
 
 1. Get the calculator to work using `useState` (you do not need to use `useRef`). Your calculator should take two numbers and perform one of the following operations: addition, subtraction, multiplication, and division. Hitting = should output the correct result. Your calculator should also support clearing.
 2. Style the calculator however you want. Feel free to use any colors, layout, and animations that you would like. Be creative!
-3. Deploy your application using any method you want (repo is setup for Github actions). Add the url: URL_TO_PROJECT
+3. Deploy your application using any method you want (repo is setup for Github actions). Add the url: https://prof-tejera.github.io/homework-4-pmiller-hes
 
 ### Deployment Instructions (Github actions)
 
