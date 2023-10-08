@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.95a1d5cd.css",
-    "main.js": "/static/js/main.becc1041.js",
-    "static/js/787.17605ffb.chunk.js": "/static/js/787.17605ffb.chunk.js",
-    "index.html": "/index.html",
-    "main.95a1d5cd.css.map": "/static/css/main.95a1d5cd.css.map",
-    "main.becc1041.js.map": "/static/js/main.becc1041.js.map",
-    "787.17605ffb.chunk.js.map": "/static/js/787.17605ffb.chunk.js.map"
+    "main.css": "/prof-tejera/homework-4-pmiller-hes/static/css/main.95a1d5cd.css",
+    "main.js": "/prof-tejera/homework-4-pmiller-hes/static/js/main.133ea145.js",
+    "static/js/787.17605ffb.chunk.js": "/prof-tejera/homework-4-pmiller-hes/static/js/787.17605ffb.chunk.js",
+    "index.html": "/prof-tejera/homework-4-pmiller-hes/index.html",
+    "main.95a1d5cd.css.map": "/prof-tejera/homework-4-pmiller-hes/static/css/main.95a1d5cd.css.map",
+    "main.133ea145.js.map": "/prof-tejera/homework-4-pmiller-hes/static/js/main.133ea145.js.map",
+    "787.17605ffb.chunk.js.map": "/prof-tejera/homework-4-pmiller-hes/static/js/787.17605ffb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95a1d5cd.css",
-    "static/js/main.becc1041.js"
+    "static/js/main.133ea145.js"
   ]
 }
