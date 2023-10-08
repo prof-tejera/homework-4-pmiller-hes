@@ -1,15 +1,13 @@
-const Operation = ({ value }) => {
+const Operation = ({ className, value, onClick }) => {
   /** TODO: What happens when a user clicks an Operation, what do we want to pass to our parent? */
   return (
-    <div
-      style={{
-        padding: 10,
-        border: "1px solid black",
-        width: 60,
-      }}
+    <button 
+      className={'calculator-button operator ' + className} 
+      onClick={(e) => onClick(e)}
+      value={value}
     >
       {value}
-    </div>
+    </button>
   );
 };
 
